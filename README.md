@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! / Hello! I'm Agustín</h1>
+<p align="center">🔧 Electronic and Industrial Automation Engineer | Embedded System | Java · C++ · Python</p>
 
-<!--
-**ing-agustin/ing-agustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Sobre mí / About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Industrial Electronics Engineering student** with a background in **Industrial Robotics**.  
+  🧠 Passionate about electronics, programming, and building efficient embedded systems.
+
+- 🔍 Currently developing projects with **PIC microcontrollers**, **Java**, and embedded systems.
+
+- 🌱 Always learning and exploring new technologies.
+
+---
+
+### 🛠️ Tecnologías / Technologies
+
+#### 💻 Lenguajes / Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-000000?style=flat&logo=vercel&logoColor=white)
+### Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+#### 🧰 Herramientas / Tools
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB_X_IDE-CC0000?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+---
+
+
+
+<p align="center">✨ Gracias por visitar / Thanks for visiting ✨</p>
