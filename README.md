@@ -23,7 +23,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
-![ASM](https://img.shields.io/badge/ASM-000000?style=flat&logo=vercel&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-000000?style=flat)
+![SPICE](https://img.shields.io/badge/SPICE-8A4182?style=flat)
+
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
@@ -33,6 +35,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-B40404?style=flat&logo=analog-devices&logoColor=white)
 
 ---
 
